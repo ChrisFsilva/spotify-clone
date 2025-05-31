@@ -39,14 +39,9 @@ Criar um clone visual e responsivo do site Spotify com pesquisa de músicas.
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no LinkedIn:
-
-<a href="#">
-  <img alt="Spotify Clone By Christopher Silva" src="https://img.shields.io/badge/Acessar%20Layout%20-aqui-%2304D361?style=flat-square">
-</a>
-
+O layout da aplicação está disponível no pinteres:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-Spotify" src="https://media.licdn.com/dms/image/D4E2DAQH4VYZXDprsiQ/profile-treasury-image-shrink_800_800/0/1706570109443?e=1707249600&v=beta&t=TXOkfsw7um0x83f8lNpckzntIOkzyoVuxvsIRdw-3bo" />
+<img alt="Automação do Onboard By Christopher Silva" title="#Spotify-clone" src="https://i.pinimg.com/1200x/e7/d6/be/e7d6befff6d26284b2330bdbdcc91542.jpg" style="width:500px";/>
 </p>
 
 ---
